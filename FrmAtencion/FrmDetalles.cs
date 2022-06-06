@@ -25,13 +25,14 @@ namespace FrmAtencion
 
         private void btnNuevoVehiculo_Click(object sender, EventArgs e)
         {
-            FormAlta<T> formAltaVehiculo = new FormAlta<T>();
-            formAltaVehiculo.ShowDialog();
+            FormAlta<T> formAlta = new FormAlta<T>();
+            formAlta.ShowDialog();
         }
 
         private void btnListaVehiculos_Click(object sender, EventArgs e)
         {
-
+            FormListar<T> formListar = new FormListar<T>();
+            formListar.ShowDialog();
         }
 
         private void armarMenu()

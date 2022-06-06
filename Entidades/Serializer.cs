@@ -16,8 +16,8 @@ namespace Entidades
 
         static Serializer()
         {
-            DirectoryInfo path = Directory.CreateDirectory($"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}\\Archivos_Serializados\\");
-            Serializer.rutaBase = path.FullName;
+            DirectoryInfo ruta = Directory.CreateDirectory($"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}\\Flash_Imports\\");
+            Serializer.rutaBase = ruta.FullName;
         }
 
 
@@ -40,7 +40,7 @@ namespace Entidades
                     xml.Serialize(streamWriter, vehiculo);
                 } catch(SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
             }
         }
@@ -55,7 +55,7 @@ namespace Entidades
                 }
                 catch (SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
             }
         }
@@ -70,7 +70,7 @@ namespace Entidades
                     xml.Serialize(xmlTextWriter, persona);
                 }catch (SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
 
             }
@@ -88,7 +88,7 @@ namespace Entidades
                 }
                 catch (SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
 
             }
@@ -106,7 +106,7 @@ namespace Entidades
                 }
                 catch (SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
 
             }
@@ -123,7 +123,7 @@ namespace Entidades
                     return persona;
                 }catch(SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
 
                 return null;
@@ -141,7 +141,7 @@ namespace Entidades
                     return persona;
                 } catch(SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
                 return null;
             }
@@ -160,7 +160,7 @@ namespace Entidades
                     streamWriter.WriteLine(ser);
                 }catch(SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
             }
         }
@@ -175,7 +175,7 @@ namespace Entidades
                     return JsonSerializer.Deserialize<Empleado>(json);
                 }catch(SerializerException e)
                 {
-
+                    Console.WriteLine(e.Message);
                 }
                 return null;
             }

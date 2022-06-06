@@ -22,3 +22,4 @@ D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos pract
 D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\FrmAtencion\obj\Debug\net5.0-windows\FrmAtencion.csproj.CopyComplete
 D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\FrmAtencion\bin\Debug\net5.0-windows\ref\FrmAtencion.dll
 D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\FrmAtencion\obj\Debug\net5.0-windows\FrmAtencion.FrmDetalles.resources
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\FrmAtencion\obj\Debug\net5.0-windows\FrmAtencion.FormListar.resources
