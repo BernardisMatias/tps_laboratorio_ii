@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32228.430
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bernardis.Matias.Div.E", "Bernardis.Matias.Div.E\Bernardis.Matias.Div.E.csproj", "{33BB7EBE-936A-45EB-814E-115CC47CCE4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{33BB7EBE-936A-45EB-814E-115CC47CCE4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmAtencion", "FrmAtencion\FrmAtencion.csproj", "{97AFFEFD-CE00-4DC2-A62D-BE7E608F4AE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrmAtencion", "FrmAtencion\FrmAtencion.csproj", "{97AFFEFD-CE00-4DC2-A62D-BE7E608F4AE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

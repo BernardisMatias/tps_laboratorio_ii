@@ -81,7 +81,8 @@
             // 
             // picPpal
             // 
-            this.picPpal.Image = global::FrmAtencion.Properties.Resources.Logo;
+            this.picPpal.Image = ((System.Drawing.Image)(resources.GetObject("picPpal.Image")));
+            this.picPpal.ImageLocation = "";
             this.picPpal.Location = new System.Drawing.Point(388, 96);
             this.picPpal.Name = "picPpal";
             this.picPpal.Size = new System.Drawing.Size(384, 361);
@@ -102,7 +103,7 @@
             // 
             // picLogout
             // 
-            this.picLogout.Image = global::FrmAtencion.Properties.Resources.logout;
+            this.picLogout.Image = ((System.Drawing.Image)(resources.GetObject("picLogout.Image")));
             this.picLogout.Location = new System.Drawing.Point(868, 12);
             this.picLogout.Name = "picLogout";
             this.picLogout.Size = new System.Drawing.Size(32, 32);
@@ -176,6 +177,7 @@
             this.btnSucursales.Text = "Sucursales";
             this.btnSucursales.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnSucursales.UseVisualStyleBackColor = false;
+            this.btnSucursales.Click += new System.EventHandler(this.btnSucursales_Click);
             // 
             // btnEmpleados
             // 
@@ -190,6 +192,7 @@
             this.btnEmpleados.Text = "Empleados";
             this.btnEmpleados.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnEmpleados.UseVisualStyleBackColor = false;
+            this.btnEmpleados.Click += new System.EventHandler(this.btnEmpleados_Click);
             // 
             // btnVehiculos
             // 
@@ -208,7 +211,7 @@
             // 
             // picUser
             // 
-            this.picUser.Image = global::FrmAtencion.Properties.Resources.user;
+            this.picUser.Image = ((System.Drawing.Image)(resources.GetObject("picUser.Image")));
             this.picUser.Location = new System.Drawing.Point(51, 32);
             this.picUser.Name = "picUser";
             this.picUser.Size = new System.Drawing.Size(128, 128);
@@ -229,6 +232,7 @@
             this.Name = "FrmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bernardis.Matias.Div2.E";
+            this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picPpal)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

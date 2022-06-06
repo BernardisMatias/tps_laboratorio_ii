@@ -1,0 +1,12 @@
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\bin\Debug\net5.0\Bernardis.Matias.Div.E.deps.json
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\bin\Debug\net5.0\Bernardis.Matias.Div.E.dll
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\bin\Debug\net5.0\Bernardis.Matias.Div.E.pdb
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\Bernardis.Matias.Div.E.csproj.AssemblyReference.cache
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\Bernardis.Matias.Div.E.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\Bernardis.Matias.Div.E.AssemblyInfoInputs.cache
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\Bernardis.Matias.Div.E.AssemblyInfo.cs
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\Bernardis.Matias.Div.E.csproj.CoreCompileInputs.cache
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\Bernardis.Matias.Div.E.dll
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\refint\Bernardis.Matias.Div.E.dll
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\Bernardis.Matias.Div.E.pdb
+D:\UTN\1er año\Segundo Cuatrimestre\Programacion (y Laboratorio)\Trabajos practicos\TP-03\Bernardis.Matias.Div.E\Bernardis.Matias.Div.E\obj\Debug\net5.0\ref\Bernardis.Matias.Div.E.dll

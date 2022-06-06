@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UTN\\1er año\\Segundo Cuatrimestre\\Programacion (y Laboratorio)\\Trabajos practicos\\TP-03\\Bernardis.Matias.Div.E\\Bernardis.Matias.Div.E\\Bernardis.Matias.Div.E.csproj",
-      "projectName": "Bernardis.Matias.Div.E",
-      "projectPath": "D:\\UTN\\1er año\\Segundo Cuatrimestre\\Programacion (y Laboratorio)\\Trabajos practicos\\TP-03\\Bernardis.Matias.Div.E\\Bernardis.Matias.Div.E\\Bernardis.Matias.Div.E.csproj",
+      "projectUniqueName": "D:\\UTN\\1er año\\Segundo Cuatrimestre\\Programacion (y Laboratorio)\\Trabajos practicos\\TP-03\\Bernardis.Matias.Div.E\\Bernardis.Matias.Div.E\\Entidades.csproj",
+      "projectName": "Entidades",
+      "projectPath": "D:\\UTN\\1er año\\Segundo Cuatrimestre\\Programacion (y Laboratorio)\\Trabajos practicos\\TP-03\\Bernardis.Matias.Div.E\\Bernardis.Matias.Div.E\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Matias Bernardis\\.nuget\\packages\\",
       "outputPath": "D:\\UTN\\1er año\\Segundo Cuatrimestre\\Programacion (y Laboratorio)\\Trabajos practicos\\TP-03\\Bernardis.Matias.Div.E\\Bernardis.Matias.Div.E\\obj\\",
       "projectStyle": "PackageReference",
